@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\bin\Debug\Cars.Data.dll
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\bin\Debug\Cars.Data.pdb
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.dll
+C:\Users\Admin\Source\Repos\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.pdb
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\bin\Debug\Cars.Data.dll
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\bin\Debug\Cars.Data.pdb
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.dll
+C:\Users\Admin\Source\Repos\lab2\CarShowrooms\Cars.Data\obj\Debug\Cars.Data.pdb
